@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: EPOG lit review_topics_v6.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>TIK Centre for Technology, Innovation and Culture</p>
