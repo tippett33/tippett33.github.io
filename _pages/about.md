@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD Candidate at University of Oslo</a>
 
 profile:
   align: right
-  image: EPOG lit review_topics_v6.png
+  image: EPOG_lit.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>TIK Centre for Technology, Innovation and Culture</p>
