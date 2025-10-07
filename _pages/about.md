@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /about/
-subtitle: <a href='#'>PhD Candidate at University of Oslo</a>
+nav: true
+nav_order: 2
 
 profile:
   align: right
