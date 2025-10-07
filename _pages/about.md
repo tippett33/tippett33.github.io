@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /about/
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>PhD Candidate at University of Oslo</a>
 
 profile:
   align: right
