@@ -28,4 +28,4 @@ profile:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Chantale Tippett, a PhD Candidate in Innovation Studies at the University of Oslo's TIK Centre for Technology, Innovation and Culture. In my doctoral research, I'm exploring the role that digital technologies such as artificial intelligence are playing in (re)shaping corporate power dynamics in global agrifood systems. I draw from theoretical and empirical material in Innovation Studies, as well as Science and Technology Studies and Political Economy. 
+Hi! I'm Chantale Tippett, a PhD Candidate in Innovation Studies at the University of Oslo's TIK Centre for Technology, Innovation and Culture. In my doctoral research, I'm exploring the role that digital technologies such as artificial intelligence are playing in (re)shaping corporate power dynamics in global agrifood systems. I draw from theoretical and empirical material in Innovation Studies, as well as Science and Technology Studies and Political Economy.  
