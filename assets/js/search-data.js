@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of your interesting projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -430,9 +430,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-epog",
-          title: 'EPOG',
-          description: "with background image",
+          section: "News",},{id: "projects-epog-literature",
+          title: 'EPOG literature',
+          description: "Key literature for EPOG meeting Barcelona 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
