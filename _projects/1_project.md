@@ -4,7 +4,7 @@ title: EPOG literature
 description: Key literature for EPOG meeting Barcelona 2025
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: PhD
 related_publications: true
 ---
 
