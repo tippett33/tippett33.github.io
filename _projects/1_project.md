@@ -1,12 +1,25 @@
 ---
 layout: page
-title: EPOG
-description: with background image
+title: EPOG literature
+description: Key literature for EPOG meeting Barcelona 2025
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+
+Andersen, Allan Dahl, Koen Frenken, Victor Galaz, et al. 2021. “On Digitalization and Sustainability Transitions.” Environmental Innovation and Societal Transitions 41 (December): 96–98. https://doi.org/10.1016/j.eist.2021.09.013.
+Ditzler, Lenora, and Clemens Driessen. 2022. “Automating Agroecology: How to Design a Farming Robot Without a Monocultural Mindset?” Journal of Agricultural and Environmental Ethics 35 (1): 2. https://doi.org/10.1007/s10806-021-09876-x.
+Fairbairn, Madeleine, and Emily Reisman. 2024. “The Incumbent Advantage: Corporate Power in Agri-Food Tech.” The Journal of Peasant Studies 51 (6): 1331–54. https://doi.org/10.1080/03066150.2024.2310146.
+Kanger, Laur, Johan Schot, Benjamin K. Sovacool, et al. 2021. “Research Frontiers for Multi-System Dynamics and Deep Transitions.” Environmental Innovation and Societal Transitions, Celebrating a decade of EIST: What’s next for transition studies?, vol. 41 (December): 52–56. https://doi.org/10.1016/j.eist.2021.10.025.
+Klerkx, Laurens, Emma Jakku, and Pierre Labarthe. 2019. “A Review of Social Science on Digital Agriculture, Smart Farming and Agriculture 4.0: New Contributions and a Future Research Agenda.” NJAS - Wageningen Journal of Life Sciences 90–91 (December): 100315. https://doi.org/10.1016/j.njas.2019.100315.
+Rikap, Cecilia. 2023. “The Expansionary Strategies of Intellectual Monopolies: Google and the Digitalization of Healthcare.” Economy and Society 52 (1): 1. https://doi.org/10.1080/03085147.2022.2131271.
+
+<img width="468" height="390" alt="image" src="https://github.com/user-attachments/assets/b0e480ed-c498-4c39-8191-ed3666f4eb00" />
+
+
+
+
 
 Attempting to update text.
 It's easy to include images in a flexible 3-column grid format.
