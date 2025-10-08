@@ -35,4 +35,4 @@ I'm originally from Calgary, Canada, but currently live in Oslo, Norway. Before 
 
 Want to connect? You can reach me at **chantalt@uio.no** 
 
-*This website is a work in progress, so please forgive any bugs or weird formatting!* :) 
+*This website is a work in progress, so please forgive any bugs or weird formatting!* 
