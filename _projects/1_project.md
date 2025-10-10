@@ -10,6 +10,8 @@ related_publications: true
 
 Below are the publications that were used to create the topic model shown at the EPOG Barcelona poster session. This is not an exhaustive list of literature reviewed thus far in my PhD, and this list will be continually updated as the direction of my research evolves. For example, at the moment the list has a significant number of papers from Sustainability Transitions (e.g., the journal EIST), which reflects the disciplinary orientation of my original PhD supervisor. Moving forward under new supervision, I expect to cover more literature in disciplines such as International Political Economy and Innovation Management.
 
+** List of papers used to create EPOG poster visualization **
+
 Andersen, Allan Dahl, Koen Frenken, Victor Galaz, et al. “On Digitalization and Sustainability Transitions.” Environmental Innovation and Societal Transitions 41 (December 2021): 96–98. https://doi.org/10.1016/j.eist.2021.09.013.
 
 Arora, Ashish, and Alfonso Gambardella. “The Changing Technology of Technological Change: General and Abstract Knowledge and the Division of Innovative Labour.” Research Policy 23, no. 5 (1994): 523–32. https://doi.org/10.1016/0048-7333(94)01003-X.
@@ -80,8 +82,6 @@ Durand, Cédric, and Wiliiam Milberg. “Intellectual Monopoly in Global Value C
 
 Elzen, Boelie, Frank W. Geels, Cees Leeuwis, and Barbara van Mierlo. “Normative Contestation in Transitions ‘in the Making’: Animal Welfare Concerns and System Innovation in Pig Husbandry.” Research Policy 40, no. 2 (2011): 2. https://doi.org/10.1016/j.respol.2010.09.018.
 
-Elzen, Boelie, Frank W. Geels, Cees Leeuwis, and Barbara van Mierlo. “Normative Contestation in Transitions ‘in the Making’: Animal Welfare Concerns and System Innovation in Pig Husbandry.” Research Policy 40, no. 2 (2011): 2. https://doi.org/10.1016/j.respol.2010.09.018.
-
 Ertelt, Sophie-Marie, and Johan Kask. “Home Field Advantage: Examining Incumbency Reorientation Dynamics in Low-Carbon Transitions.” Environmental Innovation and Societal Transitions 50 (March 2024): 100802. https://doi.org/10.1016/j.eist.2023.100802.
 
 Fagerberg, Jan, Morten Fosaas, and Koson Sapprasert. “Innovation: Exploring the Knowledge Base.” Research Policy, Exploring the Emerging Knowledge Base of “The Knowledge Society,” vol. 41, no. 7 (2012): 1132–53. https://doi.org/10.1016/j.respol.2012.03.008.
@@ -105,8 +105,6 @@ Geels, Frank W. “Micro-Foundations of the Multi-Level Perspective on Socio-Tec
 Geels, Frank W. “Ontologies, Socio-Technical Transitions (to Sustainability), and the Multi-Level Perspective.” Research Policy, Special Section on Innovation and Sustainability Transitions, vol. 39, no. 4 (2010): 4. https://doi.org/10.1016/j.respol.2010.01.022.
 
 Geels, Frank W. “Regime Resistance against Low-Carbon Transitions: Introducing Politics and Power into the Multi-Level Perspective.” Theory, Culture & Society 31, no. 5 (2014): 5. https://doi.org/10.1177/0263276414531627.
-
-Geels, Frank W. “Socio-Technical Transitions to Sustainability: A Review of Criticisms and Elaborations of the Multi-Level Perspective.” Current Opinion in Environmental Sustainability, Open Issue 2019, vol. 39 (August 2019): 187–201. https://doi.org/10.1016/j.cosust.2019.06.009.
 
 Geels, Frank W. “Socio-Technical Transitions to Sustainability: A Review of Criticisms and Elaborations of the Multi-Level Perspective.” Current Opinion in Environmental Sustainability, Open Issue 2019, vol. 39 (August 2019): 187–201. https://doi.org/10.1016/j.cosust.2019.06.009.
 
@@ -135,8 +133,6 @@ Howard, Philip P. Concentration and Power in the Food System. Contemporary Food 
 Jaffe, Adam B., and Gaétan de Rassenfosse. “Patent Citation Data in Social Science Research: Overview and Best Practices.” Journal of the Association for Information Science and Technology 68, no. 6 (2017): 6. https://doi.org/10.1002/asi.23731.
 
 Kanger, Laur. “Neglected Systems and Theorizing: A Comment on the Transitions Research Agenda.” Environmental Innovation and Societal Transitions 34 (March 2020): 352–54. https://doi.org/10.1016/j.eist.2020.01.001.
-
-Kanger, Laur, Johan Schot, Benjamin K. Sovacool, et al. “Research Frontiers for Multi-System Dynamics and Deep Transitions.” Environmental Innovation and Societal Transitions, Celebrating a decade of EIST: What’s next for transition studies?, vol. 41 (December 2021): 52–56. https://doi.org/10.1016/j.eist.2021.10.025.
 
 Kanger, Laur, Johan Schot, Benjamin K. Sovacool, et al. “Research Frontiers for Multi-System Dynamics and Deep Transitions.” Environmental Innovation and Societal Transitions, Celebrating a decade of EIST: What’s next for transition studies?, vol. 41 (December 2021): 52–56. https://doi.org/10.1016/j.eist.2021.10.025.
 
