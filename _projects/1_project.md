@@ -10,7 +10,7 @@ related_publications: true
 
 Below are the publications that were used to create the topic model shown at the EPOG Barcelona poster session. This is not an exhaustive list of literature reviewed thus far in my PhD, and this list will be continually updated as the direction of my research evolves. For example, at the moment the list has a significant number of papers from Sustainability Transitions (e.g., the journal EIST), which reflects the disciplinary orientation of my original PhD supervisor. Moving forward under new supervision, I expect to cover more literature in disciplines such as International Political Economy and Innovation Management.
 
-** List of papers used to create EPOG poster visualization **
+**List of papers used to create EPOG poster visualization**
 
 Andersen, Allan Dahl, Koen Frenken, Victor Galaz, et al. “On Digitalization and Sustainability Transitions.” Environmental Innovation and Societal Transitions 41 (December 2021): 96–98. https://doi.org/10.1016/j.eist.2021.09.013.
 
