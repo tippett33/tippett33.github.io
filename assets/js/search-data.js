@@ -400,9 +400,9 @@ ninja.data = [{
           description: "Key literature for EPOG meeting Barcelona 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-epog-literature-topic-model",
-          title: 'EPOG literature topic model',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-epog-literature-review-topic-model",
+          title: 'EPOG literature review topic model',
+          description: "An interactive visualization of key topics in my literature review",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
