@@ -2,7 +2,7 @@
 layout: page
 title: EPOG literature review topic model
 description: An interactive visualization of key topics in my literature review
-img: assets/img/3.jpg
+img: assets/network.jpg
 importance: 2
 category: PhD
 giscus_comments: false
