@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of some of my most interesting projects.
+description: A collection of some of my past and ongoing projects (this page is a work in progress!)
 nav: true
 nav_order: 3
 display_categories: [PhD, Pre-PhD]
